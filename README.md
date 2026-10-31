@@ -1,6 +1,6 @@
 # Open-source Claude Cowork alternative starter
 
-Kortix is the open-source AI Operating System, and this repository is a working, self-hostable Claude Cowork alternative for teams that want their agents, skills, memory and connectors as files they own, running on infrastructure they control, rather than settings inside a vendor product.
+Kortix is the open-source CompanyOS, and this repository is a working, self-hostable Claude Cowork alternative for teams that want their agents, skills, memory and connectors as files they own, running on infrastructure they control, rather than settings inside a vendor product.
 
 If the term is new to you, [what Claude Cowork is](https://claudecoworkalternative.com/what-is-claude-cowork) is the two-minute version, and [what Reddit's alternative threads ask for](https://claudecoworkalternative.com/claude-cowork-alternatives-reddit) shows where real users land.
 
