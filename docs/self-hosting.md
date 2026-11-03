@@ -1,6 +1,6 @@
 # Self-hosting open-source Kortix
 
-Kortix is the open-source AI Operating System, and you can run it on your own laptop, a VPS, your VPC or on-prem instead of renting a vendor cloud.
+Kortix is the open-source CompanyOS, and you can run it on your own laptop, a VPS, your VPC or on-prem instead of renting a vendor cloud.
 
 Self-hosting runs Kortix as one Docker Compose stack: the frontend, the API, the LLM gateway, and the Supabase distribution. Agent sessions run on a separate sandbox provider, not on this stack. Platinum is the default; Daytona remains available as a legacy fallback.
 
