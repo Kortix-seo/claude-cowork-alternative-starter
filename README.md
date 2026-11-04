@@ -40,7 +40,7 @@ kortix ship
 
 Kortix is open source: self-host, read and modify the code. Claude Cowork keeps the vendor model: Anthropic hosts the application, its source is not published, and there is no self-hosted deployment of the app. Model calls can route through your own cloud account (Amazon Bedrock, Google Cloud or Microsoft Foundry), but the application itself stays hosted by Anthropic. Kortix runs on your laptop, a VPS, your VPC or on-prem, or as managed cloud, with any model and your own keys.
 
-The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna). Step-by-step guides are in [docs/self-hosting.md](docs/self-hosting.md) and [docs/migrating-from-claude-cowork.md](docs/migrating-from-claude-cowork.md).
+The code lives at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Step-by-step guides are in [docs/self-hosting.md](docs/self-hosting.md) and [docs/migrating-from-claude-cowork.md](docs/migrating-from-claude-cowork.md).
 
 If you are still weighing the options, [the Claude Cowork alternative guide](https://claudecoworkalternative.com) compares the field.
 
